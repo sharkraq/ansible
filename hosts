@@ -1,5 +1,5 @@
-#[local]
-#localhost
+[local]
+localhost
 
 [www]
 oc1 ansible_host=192.168.59.134
